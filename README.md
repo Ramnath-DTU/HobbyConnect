@@ -1,4 +1,4 @@
-*HobbyConnect*
+**HobbyConnect**
 <br>
 •	Implemented secure email-based authentication to safeguard user accounts, ensuring data privacy and security.
 <br>
@@ -8,5 +8,5 @@
 <br>
 •	Integrated real-time chat using Socket.io, enabling seamless and interactive communication between users.
 <br>
-*•	Technologies used: HTML, CSS, JavaScript, React.js, Node.js, Socket.io, MongoDB.*
+**•	Technologies used: HTML, CSS, JavaScript, React.js, Node.js, Socket.io, MongoDB.**
 
